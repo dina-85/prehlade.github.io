@@ -1,2 +1,0 @@
-# nahlade
-Sve o prehladama
